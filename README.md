@@ -1,3 +1,7 @@
+PS: I did this assignment over a year ago. I had clear directions what to do. There was a part of basic code written down already.
+
+I made it look nice and added the requirements given to be by the company.
+
 # TimeChimp React Coding Challenge 🎧
 
 ## Setup 🚀
@@ -29,4 +33,5 @@ We don't want to restrict you too much so feel free to scope the project to your
 However; make sure there is enough code (written by yourself) to explain your design and approach.
 
 _Be creative, be awesome!_
+
 # React-Assignment
