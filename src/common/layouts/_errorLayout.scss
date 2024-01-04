@@ -1,0 +1,5 @@
+@import "../../styles/blank_page";
+
+.error_message {
+  @include blank_page();
+}

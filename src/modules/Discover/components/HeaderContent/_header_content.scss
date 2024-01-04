@@ -1,0 +1,18 @@
+@import "../../../../styles/vars";
+
+@mixin header_spaces {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.discover_header {
+  &__sun {
+    @include header_spaces();
+    color: #ffd60b;
+  }
+
+  &__moon {
+    @include header_spaces();
+    color: $deep-grey;
+  }
+}
